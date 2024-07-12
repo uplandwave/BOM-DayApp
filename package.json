@@ -1,0 +1,26 @@
+{
+  "name": "bom-dayapp",
+  "version": "1.0.0",
+  "main": "expo/AppEntry.js",
+  "scripts": {
+    "start": "expo start",
+    "android": "expo start --android",
+    "ios": "expo start --ios",
+    "web": "expo start --web"
+  },
+  "dependencies": {
+    "@expo-google-fonts/fraunces": "^0.2.3",
+    "@expo-google-fonts/public-sans": "^0.2.3",
+    "expo": "~51.0.19",
+    "expo-font": "^12.0.7",
+    "expo-splash-screen": "^0.27.5",
+    "expo-status-bar": "~1.12.1",
+    "react": "18.2.0",
+    "react-native": "0.74.3",
+    "splash-screen": "^4.0.1"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.20.0"
+  },
+  "private": true
+}
